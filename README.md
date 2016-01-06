@@ -1,4 +1,4 @@
-# Artnet - Partical
+# Artnet - Particle
 
 a fork of:
 
