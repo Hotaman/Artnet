@@ -1,12 +1,17 @@
-# Artnet
+# Artnet - Partical
+
+a fork of:
 
 An Art-Net library for Teensy and Arduino
 
-Note: this library assumes you are using the standard Ethernet library
+I'm converting for use on Particle devices
 
 ## Installation
 
-You can download the [master](https://github.com/natcl/Artnet/archive/master.zip) and place the folder in your `~/Documents/Arduino/libraries` folder.
+When complete, I will add this lib to the web IDE
+
+###Don't try to use it now!!  Not working at all!!
+
 
 ## Examples
 
